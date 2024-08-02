@@ -5,8 +5,9 @@ This is real data that comes from [NYC open data](https://data.cityofnewyork.us/
 
 ###1.  What are the most common reasons for delays and breakdowns?
     ![Picture1](https://github.com/user-attachments/assets/024bf384-405f-44e7-b90b-d3b8cedc3339)
-    
+    ![Picture1](https://github.com/user-attachments/assets/4779ea5c-dcba-417a-8ee3-b1b198729f16)
 ###3.  How do delay times vary by bus company and borough?
+
     
 ###4.  Is there a correlation between specific days of the week and the frequency of breakdowns or delays?
 
