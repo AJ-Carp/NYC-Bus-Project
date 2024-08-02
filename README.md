@@ -1,4 +1,4 @@
-# NYC-Bus-Project
+# NYC-Bus-Project 🗽🏙️
 For this project I answered 3 questions regarding bus breakdowns and delays in NYC.
 
 This is real data that comes from [NYC open data](https://data.cityofnewyork.us/Transportation/Bus-Breakdown-and-Delays/ez4e-fazm/data_preview). I also must give credit to Alex Freburg for creating the [excel course](https://www.analystbuilder.com/courses/excel-for-data-analytics) on analyst builder that helped me make this project.
